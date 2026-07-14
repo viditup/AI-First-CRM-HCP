@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+alembic
+pydantic
+python-dotenv
+langgraph
+langchain
+langchain-groq
+langchain-core
+python-multipart
